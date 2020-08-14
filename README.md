@@ -13,3 +13,6 @@ A simple WebPack config with devServer enabled, hot reloading, and using React.
 - Add the script tag to ./public/index.html with the path to the new production JavaScript.
 - `npm run prod` to start production server.
 - Open browser to http://localhost:8080 to view page.
+
+
+Based on https://medium.com/@cstroman/setting-up-devserver-with-hot-reloading-using-webpack-4-and-react-8a78d96ff09c
